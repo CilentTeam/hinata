@@ -1,0 +1,29 @@
+{
+"ownerNumber": ["6281327496283@s.whatsapp.net"],
+"ownerName": ["Alfa"],
+"botName": "Cilent-Md",
+"packname": "Cilent-Md",
+"author": "Cilent",
+"sessionName": "session",
+"pathimg": "./media/hinata.jpg",
+
+"medsos": {
+"youtube": "https://youtube.com/c/Alfa",
+"instagram": "https://instagram.com/alfa211"
+},
+
+"donasi": {
+"saweria": "https://saweria.co/Alfa",
+"dana": "081914026158",
+"AN_dana": "Alfa",
+"gopay": "081914026158",
+"AN_gopay": "Alfa"
+},
+
+"gamewaktu": 90,
+"limitCount": 25,
+"gcount": {
+"prem": 35,
+"user": 15
+}
+}

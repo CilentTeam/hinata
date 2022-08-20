@@ -1,0 +1,69 @@
+[
+  {
+    "jid": "6285724404318@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 1
+      },
+      {
+        "nama": "#runtime",
+        "count": 5
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#tiktoknowm",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 3
+      },
+      {
+        "nama": "#bugpc",
+        "count": 25
+      },
+      {
+        "nama": "#kusonime",
+        "count": 7
+      },
+      {
+        "nama": "#bugmenu",
+        "count": 6
+      },
+      {
+        "nama": "#owner",
+        "count": 8
+      },
+      {
+        "nama": "#speed",
+        "count": 2
+      },
+      {
+        "nama": "#addprem",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283832460584@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#help",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "62895397918020@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#bugpc",
+        "count": 3
+      }
+    ]
+  }
+]
